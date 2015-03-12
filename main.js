@@ -1,8 +1,21 @@
 /*Assignment for Week 8*/
 
-/*
-var first = ("Greg");
-var last = ("Dillon")
+
+
+var  first = prompt("What's your first name");
+
+if (first != null) {
+// continue
+
+}
+var  last = prompt("What's your last name");
+
+if (last != null) {
+// continue
+
+}
+
+
 
 
 var createName = function(first,last){
@@ -11,7 +24,7 @@ var createName = function(first,last){
 
 createName();
 
-var askName = function()*/
+var askName = function()
 
 
 // Example Code
